@@ -8,12 +8,5 @@ text-align: center;
 }
 
  h2{
-     font-size: 2cm;
-       width: 1780pt;
-      height: 70pt; 
-}
-
-.A, .B, .C, .D, .E{
-    display: flex;
-  
+      font-size: 2cm;
 }
